@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a04baa4.css",
-    "main.js": "/static/js/main.fb33978e.js",
-    "index.html": "/index.html",
-    "main.6a04baa4.css.map": "/static/css/main.6a04baa4.css.map",
-    "main.fb33978e.js.map": "/static/js/main.fb33978e.js.map"
+    "main.css": "/fujinio-hideout/gomoku/static/css/main.6a04baa4.css",
+    "main.js": "/fujinio-hideout/gomoku/static/js/main.3e5dd3b5.js",
+    "index.html": "/fujinio-hideout/gomoku/index.html",
+    "main.6a04baa4.css.map": "/fujinio-hideout/gomoku/static/css/main.6a04baa4.css.map",
+    "main.3e5dd3b5.js.map": "/fujinio-hideout/gomoku/static/js/main.3e5dd3b5.js.map"
   },
   "entrypoints": [
     "static/css/main.6a04baa4.css",
-    "static/js/main.fb33978e.js"
+    "static/js/main.3e5dd3b5.js"
   ]
 }
